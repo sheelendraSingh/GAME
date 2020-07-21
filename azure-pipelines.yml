@@ -9,13 +9,13 @@ trigger:
 variables:
  
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: 'yoursubname'
+  azureSubscription: 'Like A Boss Sandbox'
   
   # Web app name
-  webAppName: 'yourwebappname'
+  webAppName: 'testgame-bc'
   
   # Resource group
-  resourceGroupName: 'yourresourcegroup'
+  resourceGroupName: 'test-bcRG'
  
   # Environment name
   environmentName: 'yourenvironmentname'
