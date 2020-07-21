@@ -18,7 +18,7 @@ variables:
   resourceGroupName: 'test-bcRG'
  
   # Environment name
-  environmentName: 'testgaem-bc'
+  environmentName: 'testgame-bc'
  
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
